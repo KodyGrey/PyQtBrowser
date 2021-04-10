@@ -167,3 +167,5 @@ class Calculator(QMainWindow):
             self.can_input = False
         except Exception as ex:
             pass
+
+# Hello Alexey Levushkin
